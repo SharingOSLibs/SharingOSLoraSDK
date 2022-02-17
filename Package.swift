@@ -13,5 +13,5 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SharingOSLockSDK", 
-            path: "1.0.2/SharingOSLockSDK.xcframework")
+            path: "SharingOSLockSDK.xcframework")
     ])
