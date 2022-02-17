@@ -1,0 +1,6 @@
+framework module SharingOSLockSDK {
+  umbrella header "SharingOSLockSDK.h"
+
+  export *
+  module * { export * }
+}
