@@ -15,4 +15,3 @@ let package = Package(
             name: "SharingOSLockSDK", 
             path: "SharingOSLockSDK.xcframework")
     ])
-EOF
